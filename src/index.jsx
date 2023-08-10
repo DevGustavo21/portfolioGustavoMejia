@@ -30,7 +30,7 @@ const AppWithHeader = () => {
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolioGustavoMejia">
       <AppWithHeader />
     </BrowserRouter>
   </React.StrictMode>
