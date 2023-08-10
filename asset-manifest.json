@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/DevGustavo21/portfolioGustavoMejia/static/css/main.6bd94b86.css",
-    "main.js": "/DevGustavo21/portfolioGustavoMejia/static/js/main.cc04102d.js",
-    "static/media/pinos.png": "/DevGustavo21/portfolioGustavoMejia/static/media/pinos.93bb65a779df6608b132.png",
-    "static/media/adopta.png": "/DevGustavo21/portfolioGustavoMejia/static/media/adopta.5ae3ca592754816998ba.png",
-    "static/media/shape2.png": "/DevGustavo21/portfolioGustavoMejia/static/media/shape2.b278fe1ae671193796c1.png",
-    "static/media/shape1.png": "/DevGustavo21/portfolioGustavoMejia/static/media/shape1.cfcf5bcdce57e2ee652e.png",
-    "static/media/nft.png": "/DevGustavo21/portfolioGustavoMejia/static/media/nft.9089620537de4fdddb9d.png",
-    "static/media/IMG_2479.jpg": "/DevGustavo21/portfolioGustavoMejia/static/media/IMG_2479.e22d93cfa98e37272144.jpg",
-    "static/media/react.png": "/DevGustavo21/portfolioGustavoMejia/static/media/react.8a6fc0a24a800d1e0f4a.png",
-    "static/media/cv.pdf": "/DevGustavo21/portfolioGustavoMejia/static/media/cv.ef05973f1c19d8ea2cc7.pdf",
-    "static/media/bootstrap.png": "/DevGustavo21/portfolioGustavoMejia/static/media/bootstrap.35ae969b26d06365136e.png",
-    "static/media/tailwind.png": "/DevGustavo21/portfolioGustavoMejia/static/media/tailwind.36b2728bf0d14b7b7576.png",
-    "static/media/mysql.png": "/DevGustavo21/portfolioGustavoMejia/static/media/mysql.9abb470bd3a3e2290e39.png",
-    "static/media/laravel.png": "/DevGustavo21/portfolioGustavoMejia/static/media/laravel.8b2939ca7ad8851c40a2.png",
-    "static/media/wordpress.png": "/DevGustavo21/portfolioGustavoMejia/static/media/wordpress.11ed091523e3152b651f.png",
-    "static/media/logo.png": "/DevGustavo21/portfolioGustavoMejia/static/media/logo.87a254ab518bc2de7ba9.png",
-    "static/media/css-3.png": "/DevGustavo21/portfolioGustavoMejia/static/media/css-3.463e319bad8e0edf1ef7.png",
-    "static/media/html-5.png": "/DevGustavo21/portfolioGustavoMejia/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
-    "static/media/js.png": "/DevGustavo21/portfolioGustavoMejia/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/DevGustavo21/portfolioGustavoMejia/index.html",
-    "main.6bd94b86.css.map": "/DevGustavo21/portfolioGustavoMejia/static/css/main.6bd94b86.css.map",
-    "main.cc04102d.js.map": "/DevGustavo21/portfolioGustavoMejia/static/js/main.cc04102d.js.map"
+    "main.css": "/portfolioGustavoMejia/static/css/main.6bd94b86.css",
+    "main.js": "/portfolioGustavoMejia/static/js/main.2c13a5ea.js",
+    "static/media/pinos.png": "/portfolioGustavoMejia/static/media/pinos.93bb65a779df6608b132.png",
+    "static/media/adopta.png": "/portfolioGustavoMejia/static/media/adopta.5ae3ca592754816998ba.png",
+    "static/media/shape2.png": "/portfolioGustavoMejia/static/media/shape2.b278fe1ae671193796c1.png",
+    "static/media/shape1.png": "/portfolioGustavoMejia/static/media/shape1.cfcf5bcdce57e2ee652e.png",
+    "static/media/nft.png": "/portfolioGustavoMejia/static/media/nft.9089620537de4fdddb9d.png",
+    "static/media/IMG_2479.jpg": "/portfolioGustavoMejia/static/media/IMG_2479.e22d93cfa98e37272144.jpg",
+    "static/media/react.png": "/portfolioGustavoMejia/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/cv.pdf": "/portfolioGustavoMejia/static/media/cv.ef05973f1c19d8ea2cc7.pdf",
+    "static/media/bootstrap.png": "/portfolioGustavoMejia/static/media/bootstrap.35ae969b26d06365136e.png",
+    "static/media/tailwind.png": "/portfolioGustavoMejia/static/media/tailwind.36b2728bf0d14b7b7576.png",
+    "static/media/mysql.png": "/portfolioGustavoMejia/static/media/mysql.9abb470bd3a3e2290e39.png",
+    "static/media/laravel.png": "/portfolioGustavoMejia/static/media/laravel.8b2939ca7ad8851c40a2.png",
+    "static/media/wordpress.png": "/portfolioGustavoMejia/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/logo.png": "/portfolioGustavoMejia/static/media/logo.87a254ab518bc2de7ba9.png",
+    "static/media/css-3.png": "/portfolioGustavoMejia/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/html-5.png": "/portfolioGustavoMejia/static/media/html-5.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/js.png": "/portfolioGustavoMejia/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portfolioGustavoMejia/index.html",
+    "main.6bd94b86.css.map": "/portfolioGustavoMejia/static/css/main.6bd94b86.css.map",
+    "main.2c13a5ea.js.map": "/portfolioGustavoMejia/static/js/main.2c13a5ea.js.map"
   },
   "entrypoints": [
     "static/css/main.6bd94b86.css",
-    "static/js/main.cc04102d.js"
+    "static/js/main.2c13a5ea.js"
   ]
 }
